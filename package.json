@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "date-fns": "^2.29.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "ex2files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
